@@ -18,7 +18,6 @@ A collection of scripts and utilities for population genomics data processing an
 ### 环境依赖
 在使用这些脚本之前，请确保你的系统中已安装以下软件：
 * Python 3.x 或 R (取决于具体脚本)
-* BCFtools / SAMtools
 
 ### 使用示例
 进入对应目录并运行脚本，例如：

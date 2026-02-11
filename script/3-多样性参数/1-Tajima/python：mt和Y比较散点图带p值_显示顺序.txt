@@ -1,0 +1,9 @@
+Austroasiatic_EA
+Hmong-Mien_SEA
+Tibeto-Burman_SEA
+Austronesian_SEA
+Hmong-Mien_EA
+Tibeto-Burman_EA
+Tai-Kadai_EA
+Austroasiatic_SEA
+Tai-Kadai_SEA

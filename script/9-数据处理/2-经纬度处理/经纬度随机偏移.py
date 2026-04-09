@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 
 # 输入和输出文件路径
-input_file = '/mnt/c/Users/Administrator/Desktop/捕获体系散点图.txt'  # 替换为您的输入文件路径,有表头，表头中包含Latitude和Longitude
-output_file = '/mnt/c/Users/Administrator/Desktop/捕获体系散点图偏移经纬度.txt'  # 替换为您想要的输出文件路径
+input_file = '/mnt/d/Y-mt联合项目/1-数据分析/0-采样地图/经纬度/所有样本/Mt_ref.txt'  # 替换为您的输入文件路径,有表头，表头中包含Latitude和Longitude
+output_file = '/mnt/d/Y-mt联合项目/1-数据分析/0-采样地图/经纬度/所有样本/Mt_ref_偏移.txt'  # 替换为您想要的输出文件路径
 
 # 读取数据
 df = pd.read_csv(input_file, sep='\t')
